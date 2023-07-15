@@ -1,2 +1,2 @@
 # fcc-randomquotemachine
-## Project Requirement for tha Frontend Libraries Certification
+## Project Requirement for the Frontend Libraries Certification
